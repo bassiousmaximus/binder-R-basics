@@ -1,0 +1,17 @@
+name: env-name-here-does-not-matter
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+  - defaults
+  - astrobiomike
+dependencies:
+  - python =3.7
+  - biopython
+  - pip
+  - gtotree
+  - muscle
+  - blast
+  - prodigal
+  - numpy
+  - virfinder
